@@ -1,0 +1,4 @@
+﻿Model,N,Deaths,No SCM OR (95% CI),No SCM P,SCM OR (95% CI),SCM P,Interaction OR (95% CI),LRT P for interaction
+Model 1: unadjusted,235,77,1.14 (0.90-1.48),0.278,0.85 (0.57-1.25),0.400,0.74 (0.47-1.17),0.197
+"Model 2: age, sex, BMI",235,77,1.06 (0.82-1.38),0.659,0.85 (0.57-1.25),0.416,0.80 (0.50-1.28),0.359
+Model 3: limited clinical adjustment,235,77,1.01 (0.77-1.33),0.965,0.86 (0.56-1.31),0.486,0.86 (0.52-1.41),0.542
