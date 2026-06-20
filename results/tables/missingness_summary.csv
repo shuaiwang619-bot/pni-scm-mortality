@@ -1,0 +1,38 @@
+﻿mimic,,,,
+table1_variable,column,n,missing_n,missing_pct
+Age,age,1976,0,0
+Sex,female,1976,0,0
+BMI,bmi,1976,270,13.66
+SOFA score,sofa,1976,0,0
+Coronary artery disease,coronary_artery_disease,1976,0,0
+Diabetes mellitus,diabetes_mellitus,1976,0,0
+Hypertension,hypertension,1976,0,0
+Chronic kidney disease,chronic_kidney_disease,1976,0,0
+COPD,copd,1976,0,0
+LVEF,lvef_selected,1976,0,0
+Albumin,albumin_g_l,1976,0,0
+Lymphocyte,lymphocyte_k_ul,1976,0,0
+PNI,pni,1976,0,0
+WBC,wbc,1976,1,0.05
+Platelets,platelets,1976,0,0
+Lactate,lactate,1976,239,12.1
+Creatinine,creatinine,1976,0,0
+BUN,bun_mmol_l,1976,0,0
+Mechanical ventilation,mechanical_vent,1976,0,0
+Vasopressor use,vasopressor,1976,0,0
+28-day mortality,event_28d,1976,0,0
+90-day mortality,event_90d,1976,0,0
+In-hospital mortality,hosp_event,1976,0,0
+LinYincohort,,,,
+variable,missing_n,denominator_for_pct,missing_pct,
+il_6,24,235,10.21,
+c反应蛋白,22,235,9.36,
+sofa,17,235,7.23,
+apache,11,235,4.68,
+lac,7,235,2.98,
+氧合指数,7,235,2.98,
+肌酸激酶同工酶,4,235,1.7,
+ntprobnp,2,235,0.85,
+d二聚体,1,235,0.43,
+ards,0,235,0,
+bmi,0,235,0,
