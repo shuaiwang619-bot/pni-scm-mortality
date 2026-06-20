@@ -1,0 +1,69 @@
+"Section","Outcome","Model","Term","Test","Statistic","DF","P_value"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","pni_low5_c","cox.zph Schoenfeld residual test","8.979",1,"0.003"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","scm","cox.zph Schoenfeld residual test","1.109",1,"0.292"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","age","cox.zph Schoenfeld residual test","0.390",1,"0.532"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","female","cox.zph Schoenfeld residual test","0.790",1,"0.374"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","bmi","cox.zph Schoenfeld residual test","0.729",1,"0.393"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","sofa","cox.zph Schoenfeld residual test","0.248",1,"0.618"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","log_lactate","cox.zph Schoenfeld residual test","8.761",1,"0.003"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","log_creatinine","cox.zph Schoenfeld residual test","4.721",1,"0.030"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","coronary_artery_disease","cox.zph Schoenfeld residual test","0.272",1,"0.602"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","diabetes_mellitus","cox.zph Schoenfeld residual test","0.038",1,"0.846"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","hypertension","cox.zph Schoenfeld residual test","2.553",1,"0.110"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","chronic_kidney_disease","cox.zph Schoenfeld residual test","2.027",1,"0.155"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","copd","cox.zph Schoenfeld residual test","0.071",1,"0.790"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","mechanical_vent","cox.zph Schoenfeld residual test","2.443",1,"0.118"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","vasopressor","cox.zph Schoenfeld residual test","1.868",1,"0.172"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","pni_low5_c:scm","cox.zph Schoenfeld residual test","6.464",1,"0.011"
+"PH_assumption","28-day mortality","Model 3: fully adjusted","GLOBAL","cox.zph Schoenfeld residual test","36.845",16,"0.002"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","pni_low5_c","cox.zph Schoenfeld residual test","9.109",1,"0.003"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","scm","cox.zph Schoenfeld residual test","2.180",1,"0.140"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","age","cox.zph Schoenfeld residual test","0.239",1,"0.625"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","female","cox.zph Schoenfeld residual test","1.916",1,"0.166"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","bmi","cox.zph Schoenfeld residual test","0.157",1,"0.692"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","sofa","cox.zph Schoenfeld residual test","0.947",1,"0.331"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","log_lactate","cox.zph Schoenfeld residual test","6.899",1,"0.009"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","log_creatinine","cox.zph Schoenfeld residual test","3.890",1,"0.049"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","coronary_artery_disease","cox.zph Schoenfeld residual test","0.572",1,"0.450"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","diabetes_mellitus","cox.zph Schoenfeld residual test","0.382",1,"0.536"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","hypertension","cox.zph Schoenfeld residual test","2.038",1,"0.153"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","chronic_kidney_disease","cox.zph Schoenfeld residual test","5.113",1,"0.024"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","copd","cox.zph Schoenfeld residual test","0.336",1,"0.562"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","mechanical_vent","cox.zph Schoenfeld residual test","6.821",1,"0.009"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","vasopressor","cox.zph Schoenfeld residual test","1.470",1,"0.225"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","pni_low5_c:scm","cox.zph Schoenfeld residual test","9.610",1,"0.002"
+"PH_assumption","90-day mortality","Model 3: fully adjusted","GLOBAL","cox.zph Schoenfeld residual test","49.227",16,"<0.001"
+"PNI_nonlinearity","28-day mortality","Model 3 spline check","PNI spline df=3","Natural cubic spline df=3 vs linear PNI effect",NA,NA,"0.004"
+"PNI_nonlinearity","90-day mortality","Model 3 spline check","PNI spline df=3","Natural cubic spline df=3 vs linear PNI effect",NA,NA,"0.002"
+"VIF","28-day mortality","Model 3: fully adjusted","pni_low5_c","Variance inflation factor from model matrix","1.25",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","scm","Variance inflation factor from model matrix","1.08",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","age","Variance inflation factor from model matrix","1.32",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","female","Variance inflation factor from model matrix","1.06",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","bmi","Variance inflation factor from model matrix","1.13",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","sofa","Variance inflation factor from model matrix","1.32",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","log_lactate","Variance inflation factor from model matrix","1.21",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","log_creatinine","Variance inflation factor from model matrix","1.51",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","coronary_artery_disease","Variance inflation factor from model matrix","1.17",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","diabetes_mellitus","Variance inflation factor from model matrix","1.13",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","hypertension","Variance inflation factor from model matrix","1.29",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","chronic_kidney_disease","Variance inflation factor from model matrix","1.26",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","copd","Variance inflation factor from model matrix","1.03",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","mechanical_vent","Variance inflation factor from model matrix","1.15",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","vasopressor","Variance inflation factor from model matrix","1.21",NA,NA
+"VIF","28-day mortality","Model 3: fully adjusted","pni_low5_c:scm","Variance inflation factor from model matrix","1.21",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","pni_low5_c","Variance inflation factor from model matrix","1.25",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","scm","Variance inflation factor from model matrix","1.08",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","age","Variance inflation factor from model matrix","1.32",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","female","Variance inflation factor from model matrix","1.06",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","bmi","Variance inflation factor from model matrix","1.13",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","sofa","Variance inflation factor from model matrix","1.32",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","log_lactate","Variance inflation factor from model matrix","1.21",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","log_creatinine","Variance inflation factor from model matrix","1.51",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","coronary_artery_disease","Variance inflation factor from model matrix","1.17",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","diabetes_mellitus","Variance inflation factor from model matrix","1.13",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","hypertension","Variance inflation factor from model matrix","1.29",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","chronic_kidney_disease","Variance inflation factor from model matrix","1.26",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","copd","Variance inflation factor from model matrix","1.03",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","mechanical_vent","Variance inflation factor from model matrix","1.15",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","vasopressor","Variance inflation factor from model matrix","1.21",NA,NA
+"VIF","90-day mortality","Model 3: fully adjusted","pni_low5_c:scm","Variance inflation factor from model matrix","1.21",NA,NA
