@@ -1,0 +1,27 @@
+﻿Variable,MIMIC-IV cohort (n=1976),External cohort (n=235),P value,Absolute SMD
+Demographics and severity,Demographics and severity,Demographics and severity,Demographics and severity,Demographics and severity
+"Age, years","62.0 (50.0, 73.0)","69.0 (56.0, 78.0)",<0.001,0.348
+"Female sex, n (%)",889 (45.0),84 (35.7),0.007,0.189
+"BMI, kg/m²","28.1 (24.1, 33.2)","23.0 (21.0, 26.0)",<0.001,0.741
+SOFA score,"4.0 (2.0, 5.0)","5.0 (3.0, 8.0)",<0.001,0.787
+"SCM prevalence, n (%)",240 (12.1),58 (24.7),<0.001,0.328
+Cardiac and nutritional markers,Cardiac and nutritional markers,Cardiac and nutritional markers,Cardiac and nutritional markers,Cardiac and nutritional markers
+"LVEF, %","65.0 (57.0, 77.5)","56.0 (50.0, 58.0)",<0.001,0.778
+"Albumin, g/L","30.0 (25.0, 35.0)","30.9 (27.2, 34.3)",0.044,0.115
+"Lymphocyte count, ×10⁹/L","0.9 (0.5, 1.5)","0.6 (0.4, 1.1)",<0.001,0.299
+PNI,"35.4 (29.7, 41.6)","34.9 (30.8, 38.7)",0.351,0.109
+Laboratory markers,Laboratory markers,Laboratory markers,Laboratory markers,Laboratory markers
+"Lactate, mmol/L","2.3 (1.5, 4.4)","1.7 (1.1, 2.9)",<0.001,0.382
+"Creatinine, μmol/L","115 (80, 203)","133 (78, 276)",0.016,0.276
+"WBC, ×10⁹/L","14.8 (9.9, 21.0)","12.4 (7.4, 17.5)",<0.001,0.286
+"Platelet count, ×10⁹/L","146.0 (85.5, 214.5)","177.0 (92.0, 258.0)",0.002,0.195
+"BUN, mmol/L","9.3 (6.1, 15.7)","13.1 (8.1, 21.8)",<0.001,0.541
+Comorbidities,Comorbidities,Comorbidities,Comorbidities,Comorbidities
+"Coronary artery disease, n (%)",578 (29.3),32 (13.6),<0.001,0.388
+"Diabetes mellitus, n (%)",501 (25.4),70 (29.8),0.142,0.099
+"Hypertension, n (%)",1107 (56.0),99 (42.1),<0.001,0.281
+"Chronic kidney disease, n (%)",329 (16.6),21 (8.9),0.002,0.232
+"COPD, n (%)",449 (22.7),22 (9.4),<0.001,0.370
+Organ support,Organ support,Organ support,Organ support,Organ support
+"Mechanical ventilation, n (%)",1145 (57.9),148 (63.0),0.139,0.103
+"Vasopressor use, n (%)",913 (46.2),145 (61.7),<0.001,0.315
