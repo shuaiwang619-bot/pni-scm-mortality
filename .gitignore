@@ -1,0 +1,28 @@
+# Protected or patient-level data
+data_private/*
+!data_private/README.md
+!data_private/.gitkeep
+
+# Generated local outputs that may contain patient-level rows
+outputs/
+output/
+*.RData
+*.rds
+*.Rds
+*.rda
+
+# Avoid accidentally uploading manuscript submission or proof materials
+*.docx
+*.doc
+*.pdf
+*.tif
+*.tiff
+
+# Local/editor files
+.Rhistory
+.Rproj.user/
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
