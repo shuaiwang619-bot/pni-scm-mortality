@@ -1,0 +1,5 @@
+"Outcome","Model","N","Events","No_SCM_N","No_SCM_events","SCM_N","SCM_events","No_SCM_HR_95CI","No_SCM_P","SCM_HR_95CI","SCM_P","Interaction_HR_95CI","Interaction_P","Interaction_LRT_P"
+"28-day mortality","Sensitivity 1: full model without organ support",1976,506,1736,426,240,80,"1.17 (1.11-1.24)","<0.001","0.96 (0.87-1.05)","0.375","0.82 (0.73-0.91)","<0.001","<0.001"
+"28-day mortality","Sensitivity 2: demographics and comorbidities",1976,506,1736,426,240,80,"1.20 (1.13-1.27)","<0.001","0.97 (0.88-1.07)","0.511","0.81 (0.72-0.91)","<0.001","<0.001"
+"90-day mortality","Sensitivity 1: full model without organ support",1976,633,1736,537,240,96,"1.17 (1.12-1.24)","<0.001","1.00 (0.91-1.09)","0.922","0.85 (0.76-0.94)","0.002","0.002"
+"90-day mortality","Sensitivity 2: demographics and comorbidities",1976,633,1736,537,240,96,"1.20 (1.14-1.26)","<0.001","1.01 (0.91-1.11)","0.916","0.84 (0.75-0.93)","0.001","0.002"
