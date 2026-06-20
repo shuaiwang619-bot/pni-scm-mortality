@@ -1,0 +1,3 @@
+"Outcome","Model","N","Events","No_SCM_N","No_SCM_events","SCM_N","SCM_events","No_SCM_HR_95CI","No_SCM_P","SCM_HR_95CI","SCM_P","Interaction_HR_95CI","Interaction_P","Interaction_LRT_P"
+"0-28 days after landmark","Model 3: fully adjusted",1976,506,1736,426,240,80,"1.18 (1.11-1.25)","<0.001","0.96 (0.88-1.06)","0.407","0.82 (0.73-0.91)","<0.001","<0.001"
+"28-90 days after landmark","Model 3: among 28-day survivors",1470,127,1310,111,160,16,"1.20 (1.07-1.34)","0.002","1.30 (0.99-1.70)","0.059","1.08 (0.81-1.45)","0.588","0.584"
