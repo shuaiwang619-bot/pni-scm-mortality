@@ -1,0 +1,27 @@
+﻿PNI nonlinear curve knot record
+Generated date: 2026-06-06
+
+Source data:
+- data_private/mimic队列插补后.csv (not included in this public release)
+
+Source code:
+- code/07_PNI_RCS非线性分析_seed2025.R
+
+Model specification:
+- Natural cubic spline fitted using splines::ns(pni, df = 3)
+- Cox models adjusted as in the main Model 3.
+- Follow-up started at the 72-hour landmark.
+
+Analysis sample:
+- 28-day mortality model: n = 1,976; events = 506
+- 90-day mortality model: n = 1,976; events = 633
+
+Knots used by splines::ns(pni, df = 3):
+- Internal knots: 31.4333, 39.1267
+- Boundary knots: 11.3000, 119.2500
+
+Note:
+- The 28-day and 90-day nonlinear analyses used the same PNI distribution and therefore the same spline knots.
+- These knots are recorded for reproducibility and do not need to be displayed in the study flowchart.
+
+
